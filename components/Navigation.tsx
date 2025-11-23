@@ -10,22 +10,22 @@ export default function Navigation() {
         {/* Navigation Links */}
         <div className="flex items-center gap-8 lg:gap-12">
           <a
-            href="#work"
-            className="text-white/90 text-sm font-medium hover:text-purple-400 transition-colors"
-          >
-            Work
-          </a>
-          <a
             href="#about"
             className="text-white/90 text-sm font-medium hover:text-purple-400 transition-colors"
           >
             About
           </a>
           <a
-            href="#lab"
+            href="#xp"
             className="text-white/90 text-sm font-medium hover:text-purple-400 transition-colors"
           >
-            Lab
+            Experiences
+          </a>
+          <a
+            href="#projects"
+            className="text-white/90 text-sm font-medium hover:text-purple-400 transition-colors"
+          >
+            Projects
           </a>
         </div>
       </div>

@@ -62,7 +62,7 @@ export default function WorkExperience() {
   ];
 
   return (
-    <section className="py-16 lg:py-20 px-6 lg:px-20">
+    <section className="py-16 lg:py-20 px-6 lg:px-20" id="xp">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-2xl lg:text-3xl xl:text-4xl font-bold text-white mb-10 lg:mb-12">
           Work Experience

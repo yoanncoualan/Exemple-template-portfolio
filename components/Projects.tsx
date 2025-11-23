@@ -98,7 +98,7 @@ export default function Projects() {
   ];
 
   return (
-    <section className="py-24 lg:py-28 px-6 lg:px-20">
+    <section className="py-24 lg:py-28 px-6 lg:px-20" id="projects">
       <div className="max-w-7xl mx-auto">
         {projects.map((project, index) => (
           <ProjectCard

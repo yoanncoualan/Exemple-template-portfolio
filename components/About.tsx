@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function About() {
   return (
-    <section className="py-16 lg:py-20 px-6 lg:px-20">
+    <section className="py-16 lg:py-20 px-6 lg:px-20" id="about">
       <div className="max-w-7xl mx-auto">
         {/* Main heading with cursor effect */}
         <h2 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-white mb-6">
